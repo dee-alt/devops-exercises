@@ -71,5 +71,5 @@ Personally, I really like the following sites
 
 I gathered a list of resource [here](http://devopsbit.com/resources/linux)
 
-For beginners, I recommend [Linux Journey](https://linuxjourney.com)
-If you want to deep dive into operating systems internals, I really recommend [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP)
+For beginners, I recommend [Linux Journey](https://linHointernals, I really recommend [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP)
+#Are these questions sufficent for interview
